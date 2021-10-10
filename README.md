@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @0x1773
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-0x1773/0x1773 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 0x1773
+```
+- [+] Alias(es): sorrow, destiny
+- [+] Age: ??
+- [+] Languages: German, Serbian, English
+- [+] Current location: Serbia
+```
+## `Programming languages`
+- [x] Python
+- [x] HTMl (45%)
+- [x] CSS (10%)
+- [ ] JavaScript
+- [ ] GoLang
+## __Stats__
+![stats](https://github-readme-stats.vercel.app/api?username=0x1773&show_icons=true&theme=omni&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0x1773&layout=compact&theme=omni)
