@@ -1,6 +1,6 @@
-# 0x1773
+# 5jf6
 ```
-- [+] Alias(es): sorrow, destiny
+- [+] Alias(es): sorrow
 - [+] Age: ??
 - [+] Languages: German, Serbian, English
 - [+] Current location: Serbia
